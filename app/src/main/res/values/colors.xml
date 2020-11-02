@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#2D183F</color>
+    <color name="colorPrimaryDark">#241332</color>
+    <color name="colorAccent">#241332</color>
+
+    <color name="text800">#FFFFFF</color>
+    <color name="text750">#000000</color>
+    <color name="text700">#3E3E3E</color>
+    <color name="text680">#3E3E3E</color>
+    <color name="text650">#40000000</color>
+    <color name="text600">#23263D</color>
+    <color name="text550">#454545</color>
+    <color name="text500">#666666</color>
+    <color name="text400">#5A5A5A</color>
+    <color name="text450">#3E3E3E</color>
+    <color name="text300">#999999</color>
+    <color name="text100">#CCCCCC</color>
+    <color name="text50">#707070</color>
+    <color name="text45">#7B7B7B</color>
+    <color name="text40">#40000000</color>
+    <color name="text25">#FFFEFE</color>
+    <color name="button_background">#E9E9F4</color>
+    <color name="button_background_white">#FFFFFF</color>
+    <color name="button_background_blue">#417AE6</color>
+    <color name="button_background_pink">#F1CDD7</color>
+    <color name="view_pager_dots_unselected">#E9E9F4</color>
+    <color name="view_pager_dots_selected">#5A5A5A</color>
+    <color name="view_pager_dots_selected_onboarding">#417AE6</color>
+    <color name="text850">#F2E7EF</color>
+    <color name="text900">#000000</color>
+    <color name="text920">#80895B8D</color>
+    <color name="text950">#895B8D</color>
+    <color name="text1000">#3E3E3E</color>
+    <color name="text1050">#2E4506</color>
+    <color name="text1200">#A0A0A0</color>
+
+
+    <color name="horizontal_rule">#2E450633</color>
+
+
+
+    <color name="background_progress_dialog">#00000000</color>
+
+    <color name="background_trans">#00FFFFFF</color>
+
+    <!--Feedback Chip Colours-->
+    <color name="neutral">#E6FEB57E</color>
+    <color name="neutral_trans">#CCFEB57E</color>
+    <color name="positive">#E686D07B</color>
+    <color name="positive_trans">#CC86D07B</color>
+    <color name="sub_neutral">#8C5D72C1</color>
+    <color name="negative">#BF758DDA</color>
+    <color name="negative_trans">#CC6074B5</color>
+    <color name="die">#E6EA7474</color>
+    <color name="die_trans">#CCEA7474</color>
+    <color name="hint">#333E3E3E</color>
+
+    <color name="star_color_1">#40000000</color>
+    <color name="star_color_2">#80FFFFFF</color>
+    <color name="star_color_3">#CCCCCC</color>
+    <color name="star_color_4">#CCCCCC</color>
+
+    <color name="sub_head_shop">#828282</color>
+
+    <color name="progress_color">#367BBD</color>
+    <color name="progress_color1">#2695BA</color>
+    <color name="progress_color2">#17AEB5</color>
+    <color name="progress_color3">#59A698</color>
+    <color name="progress_color4">#58AB83</color>
+    <color name="button_color">#314DC8</color>
+    <color name="reward_text">#FFC704</color>
+    <color name="background_pink">#F2E7EF</color>
+    <color name="background_pink_trans">#80F2E7EF</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_black">#3E3E3E</color>
+    <color name="background_transparent_black">#EAEAEA</color>
+    <color name="background_border_black">#3E3E3E</color>
+    <color name="background_game">#90DAF7</color>
+
+    <color name="background_white_trans">#F5FFFFFF</color>
+    <color name="progress_bar_background_home">#333E3E3E</color>
+    <color name="progress_bar_background">#40FFC704</color>
+    <color name="progress_bar_background_fill">#FFC704</color>
+    <color name="progress_bar_background_reward_fill">#ACED70</color>
+    <color name="progress_bar_background_reward">#40ACED70</color>
+    <color name="progress_bar_background_reward_fill_green">#ACED70</color>
+    <color name="progress_bar_background_reward_green">#40ACED70</color>
+    <color name="background_question_input_screen_button_trans">#80895B8D</color>
+    <color name="background_question_input_screen_button">#895B8D</color>
+    <color name="background_transparent">#00FFFFFF</color>
+    <color name="background_tasks">#925F4591</color>
+    <color name="background_audio">#000000</color>
+    <color name="background_green">#3E8D41</color>
+    <color name="background_reward_star">#FFA901</color>
+    <color name="background">#FAF9F9</color>
+    <color name="background_selected">#F0EFEF</color>
+    <color name="background_shop">#4F4F4F</color>
+    <color name="background_add_success_toast">#4F4F4F</color>
+    <color name="background_intervention_list_item">#FAFAFA</color>
+
+    <color name="black_1000">#000000</color>
+
+
+    <color name="colorPrimary1">#FFC107</color>
+    <color name="colorPrimaryDark1">#FFA000</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="materialyellow">#ffb300</color>
+    <color name="materialgreen">#00bfa5</color>
+    <color name="accent">#ff4081</color>
+
+
+    <color name="bg_color">#f3f5f9</color>
+    <color name="darkgrey">#424242</color>
+    <color name="gradientViolet">#8A52E9</color>
+    <color name="gradientLightBlue">#376DF6</color>
+    <color name="white">#ffffff</color>
+
+<!--    Material UI-->
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+    <color name="black">#000000</color>
+    <color name="purple_200">#CE93D8</color>
+
+    <color name="black_100">#3e3e3e</color>
+    <color name="black_20">#333e3e3e</color>
+
+
+</resources>

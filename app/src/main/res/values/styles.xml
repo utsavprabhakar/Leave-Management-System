@@ -1,0 +1,38 @@
+<resources>
+    <!-- Base application theme. -->
+<!--    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+<!--    &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+<!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--    </style>-->
+
+    <style name="AppTheme.Button.approve" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/progress_color4</item>
+        <item name="android:textColor">@color/text800</item>
+    </style>
+    <style name="AppTheme.Button.reject" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/die</item>
+        <item name="android:textColor">@color/text800</item>
+    </style>
+
+    <style name="AppTheme.Button.cancel" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/text1200</item>
+        <item name="android:textColor">@color/text800</item>
+    </style>
+
+    <style name="QText" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="tallerBarStyle" parent="@android:style/Widget.SeekBar">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@android:drawable/progress_horizontal</item>
+        <item name="android:indeterminateDrawable">@android:drawable/progress_horizontal</item>
+        <item name="android:minHeight">8dip</item>
+        <item name="android:maxHeight">20dip</item>
+    </style>
+
+</resources>

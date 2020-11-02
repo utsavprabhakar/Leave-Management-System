@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/QText"
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/tv_subtext"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/black"
+        android:text="Pegasus"
+        android:textSize="40sp"
+        android:fontFamily="@font/oswaldextralight"
+        />
+
+    <TextView
+        android:id="@+id/tv_subtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:maxLines="1"
+
+        />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="@style/tallerBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:layout_below="@id/tv_subtext"
+        android:layout_marginStart="52dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginTop="44dp"
+        android:progressBackgroundTint="@color/black_20"
+        android:progressTint="@color/black_100"
+        android:visibility="visible" />
+
+</RelativeLayout>

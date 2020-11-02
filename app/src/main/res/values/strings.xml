@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LeaveManagement2</string>
+    <string name="new_account">New Account</string>
+    <string name="signup_desc">Start by entering your name and categorie below.</string>
+
+    <string name="login_desc">Enter your login details to access your account</string>
+    <string name="log_in">Log In</string>
+    <string name="message">This App will send you an SMS message for verification and standard rates apply.. Kindly enter your phone Number</string>
+
+    <string name="reset_pass_message">Seems like you forgot your password for MarksPlus. If this is true, click below to reset your password.</string>
+
+    <string name="team_prompt">Choose a team</string>
+
+    <string-array name="team_arrays">
+        <item>SYSTEM</item>
+        <item>BSP</item>
+        <item>MULTIMEDIA</item>
+        <item>DESIGN</item>
+        <item>CAMERA</item>
+    </string-array>
+
+    <string name="subteam_prompt">Choose a team</string>
+
+    <string-array name="subteam_arrays">
+        <item>SERVICE</item>
+        <item>APP</item>
+        <item>FRAMEWORK</item>
+    </string-array>
+</resources>

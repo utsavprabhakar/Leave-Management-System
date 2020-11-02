@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".RequestViewActivity" >
+    <item android:id="@+id/action_today"
+        android:title="Today"/>
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/action_day_view"
+            android:title="Day View"/>
+        <item android:id="@+id/action_three_day_view"
+            android:title="3-Day view"
+            android:checked="true"/>
+        <item android:id="@+id/action_week_view"
+            android:title="7-Day View"/>
+    </group>
+</menu>
